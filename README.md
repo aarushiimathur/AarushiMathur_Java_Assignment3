@@ -1,6 +1,6 @@
 # Student Management System
 
-This is a simple **Student Management System** built in Java. The system allows you to add, display, search, update, and delete student records. Each student has a name, PRN (Personal Registration Number), batch, and CGPA (Cumulative Grade Point Average). The system provides a menu-driven interface for managing the records.
+This is a simple **Student Management System** built in Java. The system allows you to add, display, search, update, and delete student records. Each student has a name, PRN , batch, and CGPA. The system provides a menu-driven interface for managing the records.
 
 ## Features
 
